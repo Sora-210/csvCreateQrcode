@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "qrcode": "^1.4.4"
+  }
 }
