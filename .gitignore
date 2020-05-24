@@ -1,1 +1,7 @@
 node_modules/*
+
+#入力データファイル
+data.csv
+
+#出力データフォルダ
+outputData
