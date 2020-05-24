@@ -12,4 +12,5 @@ const listCreateqr = csv.parse((err, data) => {
     console.log("全データ出力完了")
 })
 
+
 fs.createReadStream('data.csv').pipe(listCreateqr)
